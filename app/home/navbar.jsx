@@ -67,7 +67,7 @@ const links = [
         <div className="flex justify-between items-center h-full">
             
                 <Image
-                src={"/Logo-1.png"}
+                src={"/images/Logo-1.png"}
                 width={70}
                 height={50}
                 alt="Logo"
@@ -75,7 +75,7 @@ const links = [
                 />
 
                 <Image 
-                src={"/Logo-2.png"}
+                src={"/images/Logo-2.png"}
                 width={200}
                 height={100}
                 alt="Logo"
