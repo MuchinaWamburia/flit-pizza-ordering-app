@@ -3,11 +3,7 @@ import Link from "next/link"
 import { useState } from "react";
 import Image from "next/image"
 
-import {
-    PayPalScriptProvider,
-    PayPalButtons,
-    usePayPalScriptReducer
-} from "@paypal/react-paypal-js";
+
 import Modal from "../home/modal";
 
 
