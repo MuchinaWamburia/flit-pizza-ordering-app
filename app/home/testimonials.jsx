@@ -5,7 +5,7 @@ const testimonials = () => {
   return (
     <>
     <div className="pt-8 px-4">
-        <Image src={'/leaf.png'} width={100} height={100}/>
+        <Image src={'/images/leaf.png'} width={100} height={100}/>
          <h2 className="text-[#e6230d] font-semibold text-xl pb-1">Cutomer Feedback</h2>
          <h2 className="text-4xl font-bold  pb-12">Client Testimonials</h2>
          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
